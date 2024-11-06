@@ -1,0 +1,12 @@
+[
+  { "title": "The Great Gatsby", "author": "F. Scott Fitzgerald" },
+  { "title": "To Kill a Mockingbird", "author": "Harper Lee" },
+  { "title": "1984", "author": "George Orwell" },
+  { "title": "Pride and Prejudice", "author": "Jane Austen" },
+  { "title": "The Catcher in the Rye", "author": "J.D. Salinger" },
+  { "title": "The Hobbit", "author": "J.R.R. Tolkien" },
+  { "title": "Moby Dick", "author": "Herman Melville" },
+  { "title": "War and Peace", "author": "Leo Tolstoy" },
+  { "title": "Anna Karenina", "author": "Leo Tolstoy" },
+  { "title": "The Adventures of Sherlock Holmes", "author": "Arthur Conan Doyle" }
+]
